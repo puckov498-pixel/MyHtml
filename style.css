@@ -17,8 +17,33 @@
     display: flex;
     justify-content: space-between;
     text-align: center;
+    
 }
 .left, .right {
     flex: 1;
    
 }
+.acc{
+    text-align: right;
+}
+.button{
+    border-radius: 25px;
+    background-color: cornflowerblue;
+    color:white;
+    width: 10%;
+    height: 40px;
+    
+}
+
+.write{
+  outline: 0; 
+  border-width: 0 0 2px; 
+  border-color: black; 
+}
+.gp{
+    color: red;
+}
+.t{
+    color:deepskyblue
+}
+
